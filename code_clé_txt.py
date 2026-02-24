@@ -1,3 +1,4 @@
+# chifrement en ajoutent une clé qui est un txt plus le txt est grand mieux c'est. pour le déchifrement il faut just soustraire
 
 file=input("nom du fichier clé:")
 
@@ -21,4 +22,5 @@ while ask!= "n" :
 
     print(cesar(msg))
     
+
     ask=input("continue? (y/n) :")
